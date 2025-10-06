@@ -1,2 +1,2 @@
 # varann
-testing
+testing next.js  🚀 
